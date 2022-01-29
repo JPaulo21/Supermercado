@@ -1,0 +1,16 @@
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.csproj.AssemblyReference.cache
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.AssemblyInfoInputs.cache
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.AssemblyInfo.cs
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.csproj.CoreCompileInputs.cache
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\bin\Debug\net5.0\Supermercado.exe
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\bin\Debug\net5.0\Supermercado.deps.json
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\bin\Debug\net5.0\Supermercado.runtimeconfig.json
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\bin\Debug\net5.0\Supermercado.runtimeconfig.dev.json
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\bin\Debug\net5.0\Supermercado.dll
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\bin\Debug\net5.0\ref\Supermercado.dll
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\bin\Debug\net5.0\Supermercado.pdb
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.dll
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\ref\Supermercado.dll
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.pdb
+C:\Users\JoãoPaulo\Documents\Sistema da Informação\2021_2\Lógica de Programação Algoritmica\SuperMercado\Supermercado\obj\Debug\net5.0\Supermercado.genruntimeconfig.cache
